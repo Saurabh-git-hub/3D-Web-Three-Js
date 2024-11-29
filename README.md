@@ -55,7 +55,7 @@ This project is a visually captivating 3D web application designed to demonstrat
 ├── script.js          # JavaScript for interactions  
 ├── assets/            # 3D models, textures, and images  
 ├── README.md          # Project documentation  
-└── 3D-Futuristic-Garage.jpg  # Cover image  
+└── Cover 3D web Three Js.jpg  # Cover image  
 ```  
 
 ---
@@ -91,7 +91,6 @@ npx live-server
 ## 🌐 **Live Demo**  
 
 **[🔗 View Live Demo](https://saurabh-git-hub.github.io/3D-Web-Three-Js/)**  
-*(Replace `#` with the link to your hosted project.)*  
 
 ---
 
@@ -122,10 +121,6 @@ We welcome all contributions to enhance this project!
 
 ---
 
-The image has been opened in the canvas. Now, let's generate the license section specifically for you.
-
----
-
 ## 📝 **License**
 
 This project is licensed to **Saurabh**, the original creator, under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
@@ -139,7 +134,7 @@ Under the following terms:
 
 For more details, visit: [Creative Commons License](https://creativecommons.org/licenses/by/4.0/)  
 
-Let me know if you'd like this license section customized further!
+
 ---
 
 # 3D-Web-Three-Js
