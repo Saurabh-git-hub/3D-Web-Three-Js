@@ -90,7 +90,7 @@ npx live-server
 
 ## 🌐 **Live Demo**  
 
-**[🔗 View Live Demo](#https://saurabh-git-hub.github.io/3D-Web-Three-Js/)**  
+**[🔗 View Live Demo](https://saurabh-git-hub.github.io/3D-Web-Three-Js/)**  
 *(Replace `#` with the link to your hosted project.)*  
 
 ---
