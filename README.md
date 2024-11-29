@@ -5,13 +5,19 @@
 
 **An immersive 3D web project built using Three.js**  
 
-![Project Preview](./assects/Cover 3D web Three Js.jpg)  
+![Project Preview](./assects/Cover%3D%web%Three%Js.jpg)  
 
 ---
 
 ## 🚀 **Overview**  
 
 This project is a visually captivating 3D web application designed to demonstrate the power of Three.js. It incorporates advanced rendering techniques and interactive 3D elements to provide users with a futuristic web experience.  
+
+---
+
+## 🌐 **Live Demo**  
+
+**[🔗 View Live Demo](https://saurabh-git-hub.github.io/3D-Web-Three-Js/)**  
 
 ---
 
@@ -86,14 +92,6 @@ To avoid CORS issues while loading textures, run the project with a live server:
 npx live-server  
 ```  
 
----
-
-## 🌐 **Live Demo**  
-
-**[🔗 View Live Demo](https://saurabh-git-hub.github.io/3D-Web-Three-Js/)**  
-
----
-
 ## 💼 **Developer Portfolio**  
 
 Check out more of my work here: [Saurabh's Portfolio](https://saurabh-portfolio-link.com)  
@@ -120,6 +118,13 @@ We welcome all contributions to enhance this project!
 5. Create a pull request.  
 
 ---
+## 📧 **Contact**  
+
+Feel free to reach out for any queries or suggestions:  
+- **Developer:** Saurabh  
+- **Email:** saurabh20002004@gmail.com  
+
+---
 
 ## 📝 **License**
 
@@ -134,7 +139,8 @@ Under the following terms:
 
 For more details, visit: [Creative Commons License](https://creativecommons.org/licenses/by/4.0/)  
 
-
+---
+Thanks 🙂
 ---
 
 # 3D-Web-Three-Js
