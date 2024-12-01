@@ -5,7 +5,7 @@
 
 **An immersive 3D web project built using Three.js**  
 
-![Project Preview](./assects/Cover%3D%web%Three%Js.jpg)  
+![Project Preview](/assects/Cover%203D%20web%20Three%20Js.jpg)  
 
 ---
 
@@ -118,11 +118,13 @@ We welcome all contributions to enhance this project!
 5. Create a pull request.  
 
 ---
+---
 ## 📧 **Contact**  
 
 Feel free to reach out for any queries or suggestions:  
 - **Developer:** Saurabh  
 - **Email:** saurabh20002004@gmail.com  
+- 🌐 **Portfolio:** [saurabh-portfolio.com](https://saurabh-git-hub.github.io/Saurabh-Portfolio/) 
 
 ---
 
